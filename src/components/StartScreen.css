@@ -1,0 +1,13 @@
+.start h1 {
+  font-size: 5.5em;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  text-shadow: -2px -1px 0px #000000, -1px 1px 0px #000000, 1px -1px 0px #000000,
+    1px 0px 0px #000000;
+}
+.start p {
+  font-size: 1.5em;
+  margin-bottom: 3em;
+  color: #ecfa00;
+}
